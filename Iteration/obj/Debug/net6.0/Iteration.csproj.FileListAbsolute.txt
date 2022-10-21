@@ -1,0 +1,15 @@
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.csproj.AssemblyReference.cache
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.AssemblyInfoInputs.cache
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.AssemblyInfo.cs
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.csproj.CoreCompileInputs.cache
+/Users/benkunkel/Projects/Iteration/Iteration/bin/Debug/net6.0/Iteration
+/Users/benkunkel/Projects/Iteration/Iteration/bin/Debug/net6.0/Iteration.deps.json
+/Users/benkunkel/Projects/Iteration/Iteration/bin/Debug/net6.0/Iteration.runtimeconfig.json
+/Users/benkunkel/Projects/Iteration/Iteration/bin/Debug/net6.0/Iteration.dll
+/Users/benkunkel/Projects/Iteration/Iteration/bin/Debug/net6.0/Iteration.pdb
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.dll
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/refint/Iteration.dll
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.pdb
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/Iteration.genruntimeconfig.cache
+/Users/benkunkel/Projects/Iteration/Iteration/obj/Debug/net6.0/ref/Iteration.dll
